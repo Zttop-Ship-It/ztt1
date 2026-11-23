@@ -63,3 +63,31 @@
 节点表可与逐根审核的有向连接表结合使用。
 
 [图面结构观察 CSV](CASE-PDF3-32B/%E5%9B%BE%E9%9D%A2%E7%BB%93%E6%9E%84%E8%A7%82%E5%AF%9F.csv) · [流程节点 CSV](CASE-PDF3-32B/01-%E8%BD%AC%E5%BD%95%E8%A1%A8.csv)
+
+### 可辨直接路径
+
+| 起点 | 终点 | 关系 |
+| --- | --- | --- |
+| Strategy | Plan | 直接 |
+| Strategy | Logo | 直接 |
+| Plan | Logo | 直接 |
+| Logo | Business Card | 直接 |
+| Logo | TV | 直接 |
+| Logo | Radio | 直接 |
+| Logo | Outdoor | 直接 |
+| Logo | Print | 直接 |
+| Logo | Direct Mail | 直接 |
+| Logo | Website | 直接 |
+| Business Card | Letterhead | 直接 |
+| Business Card | Brochure | 直接 |
+| Letterhead | Brochure | 直接 |
+| Brochure | Premiums | 直接 |
+| Website | Social Media | 直接 |
+| Website | SEO/SEM | 直接 |
+| Website | Banners | 直接 |
+| Website | Mobile | 直接 |
+| Website | Emails | 直接 |
+
+图例将实线、白虚线、橙虚线分别解释为直接路径、间接路径、事实引线。表内只录可辨的实线有向关系。
+
+[可辨直接路径 CSV](CASE-PDF3-32B/02-%E8%BD%AC%E5%BD%95%E8%A1%A8.csv)

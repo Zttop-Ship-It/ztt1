@@ -38,6 +38,26 @@
 | 26A-2 | 构思 | 图面观察 |
 | 26A-3 | 制作 | 图面观察 |
 
-当前课件可恢复图面结构。部分明细、完整源数据或计量尺度缺失。
 
 [图面结构观察 CSV](CASE-PDF3-26A/%E5%9B%BE%E9%9D%A2%E7%BB%93%E6%9E%84%E8%A7%82%E5%AF%9F.csv)
+
+### 可辨流程节点
+
+| 节点 | 节点角色 |
+| --- | --- |
+| The starting point | 起点 |
+| The trigger | 触发 |
+| Investigation | 调查 |
+| Research | 研究 |
+| Design statement of intent | 设计意图 |
+| Ideation | 构思 |
+| The solution | 方案 |
+| Tokyo | 现场考察 |
+| Manifesto! | 宣言 |
+| The hypothesis | 假设 |
+| Psychogeography | 方法 |
+| The Wanderlust | 最终成果 |
+
+依图面角色登记节点。此表没有将排版位置定为唯一流程顺序。
+
+[可辨流程节点 CSV](CASE-PDF3-26A/01-%E8%BD%AC%E5%BD%95%E8%A1%A8.csv)
