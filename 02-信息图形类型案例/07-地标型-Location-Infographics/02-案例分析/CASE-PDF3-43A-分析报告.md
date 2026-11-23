@@ -2,6 +2,9 @@
 
 出处为《第三讲-信息图形类型学(1)》PDF 第 43 页。同页字母表示图面位置。图面署名 Nicolas Rapp，参见[库内已有研究](./EXT-2026-002-Fortune500研究.md)和[作品页](https://nicolasrapp.com/studio/portfolio/power-centers-of-the-fortune-500/)。原图公开转载许可待核实。
 
+![Power Centers of the Fortune 500](../01-%E6%A1%88%E4%BE%8B%E5%9B%BE/CASE-PDF3-43A.jpg)
+
+
 ## 01 主数据逻辑
 
 **地理图型**。美国都市圈位置连接外移的营收汇总圆。建议以一个都市圈为一行，按图选用空间对象键、地名、几何、坐标参照、指标值等独立字段。
