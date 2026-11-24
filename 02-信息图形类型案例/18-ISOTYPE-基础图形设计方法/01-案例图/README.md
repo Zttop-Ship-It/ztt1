@@ -1,3 +1,8 @@
 # ISOTYPE 方法案例图
 
-仅在原作可公开归档许可核实后上传，并与同编号案例分析匹配。
+按案例号打开归档图片。许可状态、视觉编码和数据见[方法案例索引](../02-案例分析/README.md)及对应报告。
+
+- [1932 年分行业就业（CASE-PDF3-59A）](../../10-%E5%8D%95%E4%B8%80%E5%9B%BE%E8%A1%A8%E5%9E%8B-Single-chart/01-%E6%A1%88%E4%BE%8B%E5%9B%BE/CASE-PDF3-59A.jpg)
+- [1938 年出生与死亡（CASE-PDF3-61B）](../../06-%E6%AF%94%E8%BE%83%E5%9E%8B-Comparison-Infographics/01-%E6%A1%88%E4%BE%8B%E5%9B%BE/CASE-PDF3-61B.jpg)
+- [国家 × 行业图符统计表（CASE-PDF3-59B）](../../06-%E6%AF%94%E8%BE%83%E5%9E%8B-Comparison-Infographics/01-%E6%A1%88%E4%BE%8B%E5%9B%BE/CASE-PDF3-59B.jpg)
+- [18 世纪弗吉尼亚庄园（CASE-PDF3-61A）](../../07-%E5%9C%B0%E6%A0%87%E5%9E%8B-Location-Infographics/01-%E6%A1%88%E4%BE%8B%E5%9B%BE/CASE-PDF3-61A.jpg)
