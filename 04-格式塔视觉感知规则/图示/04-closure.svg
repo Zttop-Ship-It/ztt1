@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240" role="img" aria-labelledby="title">
+<title id="title">Closure</title>
+<rect x="0" y="0" width="720" height="240" rx="0" fill="#f4f7fa" stroke="none" stroke-width="2"/>
+<rect x="24" y="23" width="316" height="195" rx="12" fill="white" stroke="#c4d0dc" stroke-width="2"/><rect x="380" y="23" width="316" height="195" rx="12" fill="white" stroke="#c4d0dc" stroke-width="2"/><text x="42" y="49" font-family="sans-serif" font-size="17" fill="#748393">A</text><text x="398" y="49" font-family="sans-serif" font-size="17" fill="#748393">B</text><circle cx="181" cy="130" r="54" fill="none" stroke="#2867a8" stroke-width="6"/><path d="M485 113 A54 54 0 0 1 530 76 M555 78 A54 54 0 0 1 591 119 M588 144 A54 54 0 0 1 549 182 M524 181 A54 54 0 0 1 486 144" stroke="#2867a8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
