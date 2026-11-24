@@ -11,7 +11,7 @@
 
 ## 02 表现标签
 
-**06 比较型**。方法标签为 [18 ISOTYPE](../../18-ISOTYPE-%E5%9F%BA%E7%A1%80%E5%9B%BE%E5%BD%A2%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95/02-案例分析/README.md)（已确认）。图面署名 Isotype Institute。婴儿与棺材区分出生与死亡，各国使用每 500 人的统一比较基数。
+**06 比较型**。方法标签为 [03 ISOTYPE](../../../03-ISOTYPE%E4%BF%A1%E6%81%AF%E5%9B%BE/02-%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/README.md)（已确认）。图面署名 Isotype Institute。婴儿与棺材区分出生与死亡，各国使用每 500 人的统一比较基数。
 
 ## 统计图形与可读边界
 
